@@ -1,0 +1,21 @@
+# Target Build Folders
+**/target/
+**/build/
+**/.gradle/
+
+# IDE and System Configurations
+**/.idea/
+**/.vscode/
+**/*.iml
+*.DS_Store
+
+# Flutter Specifics
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# Environment and Secrets
+**/*.env
+**/application.properties.local
